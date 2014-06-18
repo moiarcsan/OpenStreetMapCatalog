@@ -1,0 +1,1244 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-06-18T10:33:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/216976331",
+      "properties": {
+        "@id": "way/216976331",
+        "building": "yes",
+        "source": "catastro"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.755124,
+              37.9379637
+            ],
+            [
+              -5.7550535,
+              37.9378331
+            ],
+            [
+              -5.7549879,
+              37.9378563
+            ],
+            [
+              -5.7549239,
+              37.9377438
+            ],
+            [
+              -5.7548239,
+              37.9377787
+            ],
+            [
+              -5.7548895,
+              37.9378887
+            ],
+            [
+              -5.7546632,
+              37.9379701
+            ],
+            [
+              -5.7545862,
+              37.937855
+            ],
+            [
+              -5.7545173,
+              37.9378822
+            ],
+            [
+              -5.7546649,
+              37.9381214
+            ],
+            [
+              -5.755124,
+              37.9379637
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723544",
+      "properties": {
+        "@id": "way/287723544",
+        "addr:housenumber": "40",
+        "addr:street": "Calle Francisco Huet",
+        "catastro:ref": "8027801TH5072N",
+        "landuse": "residential",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7542312,
+              37.9382855
+            ],
+            [
+              -5.7541854,
+              37.9382049
+            ],
+            [
+              -5.7541649,
+              37.9381688
+            ],
+            [
+              -5.7541599,
+              37.9381707
+            ],
+            [
+              -5.7540852,
+              37.9381988
+            ],
+            [
+              -5.7541541,
+              37.9383144
+            ],
+            [
+              -5.7542312,
+              37.9382855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723545",
+      "properties": {
+        "@id": "way/287723545",
+        "building": "residential",
+        "building:levels": "2",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7541977,
+              37.9380732
+            ],
+            [
+              -5.7541675,
+              37.9380845
+            ],
+            [
+              -5.7541438,
+              37.9380445
+            ],
+            [
+              -5.7540979,
+              37.9380615
+            ],
+            [
+              -5.7541416,
+              37.9381384
+            ],
+            [
+              -5.7542188,
+              37.9381118
+            ],
+            [
+              -5.7542989,
+              37.938082
+            ],
+            [
+              -5.7542767,
+              37.938044
+            ],
+            [
+              -5.7542452,
+              37.9380556
+            ],
+            [
+              -5.7542215,
+              37.9380156
+            ],
+            [
+              -5.7541755,
+              37.9380327
+            ],
+            [
+              -5.7541977,
+              37.9380732
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723546",
+      "properties": {
+        "@id": "way/287723546",
+        "building": "residential",
+        "building:levels": "2",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.754468,
+              37.9381965
+            ],
+            [
+              -5.7544217,
+              37.9381161
+            ],
+            [
+              -5.7543441,
+              37.9381453
+            ],
+            [
+              -5.7543907,
+              37.9382255
+            ],
+            [
+              -5.754468,
+              37.9381965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723547",
+      "properties": {
+        "@id": "way/287723547",
+        "building": "residential",
+        "building:levels": "2",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7542312,
+              37.9382855
+            ],
+            [
+              -5.7541854,
+              37.9382049
+            ],
+            [
+              -5.7541065,
+              37.9382345
+            ],
+            [
+              -5.7541541,
+              37.9383144
+            ],
+            [
+              -5.7542312,
+              37.9382855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723548",
+      "properties": {
+        "@id": "way/287723548",
+        "building": "warehouse",
+        "building:levels": "1",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7546055,
+              37.9381004
+            ],
+            [
+              -5.7545911,
+              37.9380765
+            ],
+            [
+              -5.7545537,
+              37.9380905
+            ],
+            [
+              -5.7545681,
+              37.9381145
+            ],
+            [
+              -5.7546055,
+              37.9381004
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723549",
+      "properties": {
+        "@id": "way/287723549",
+        "building": "residential",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7542767,
+              37.938044
+            ],
+            [
+              -5.7542533,
+              37.9380038
+            ],
+            [
+              -5.7542215,
+              37.9380156
+            ],
+            [
+              -5.7542452,
+              37.9380556
+            ],
+            [
+              -5.7542767,
+              37.938044
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723550",
+      "properties": {
+        "@id": "way/287723550",
+        "building": "residential",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7541977,
+              37.9380732
+            ],
+            [
+              -5.7541755,
+              37.9380327
+            ],
+            [
+              -5.7541438,
+              37.9380445
+            ],
+            [
+              -5.7541675,
+              37.9380845
+            ],
+            [
+              -5.7541977,
+              37.9380732
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723551",
+      "properties": {
+        "@id": "way/287723551",
+        "building": "residential",
+        "building:levels": "2",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7544502,
+              37.9380251
+            ],
+            [
+              -5.7544064,
+              37.9379471
+            ],
+            [
+              -5.754327,
+              37.9379765
+            ],
+            [
+              -5.754372,
+              37.9380545
+            ],
+            [
+              -5.7544502,
+              37.9380251
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723552",
+      "properties": {
+        "@id": "way/287723552",
+        "building": "residential",
+        "building:levels": "1",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.754206,
+              37.9381972
+            ],
+            [
+              -5.7541856,
+              37.938161
+            ],
+            [
+              -5.7541649,
+              37.9381688
+            ],
+            [
+              -5.7541854,
+              37.9382049
+            ],
+            [
+              -5.754206,
+              37.9381972
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723553",
+      "properties": {
+        "@id": "way/287723553",
+        "building": "residential",
+        "building:levels": "2",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7545513,
+              37.9381651
+            ],
+            [
+              -5.7545171,
+              37.9381042
+            ],
+            [
+              -5.754506,
+              37.9380845
+            ],
+            [
+              -5.7544217,
+              37.9381161
+            ],
+            [
+              -5.754468,
+              37.9381965
+            ],
+            [
+              -5.7545513,
+              37.9381651
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723554",
+      "properties": {
+        "@id": "way/287723554",
+        "building": "residential",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7543163,
+              37.9381119
+            ],
+            [
+              -5.7542989,
+              37.938082
+            ],
+            [
+              -5.7542188,
+              37.9381118
+            ],
+            [
+              -5.7542355,
+              37.9381423
+            ],
+            [
+              -5.7542704,
+              37.9381292
+            ],
+            [
+              -5.7543163,
+              37.9381119
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723555",
+      "properties": {
+        "@id": "way/287723555",
+        "building": "residential",
+        "building:levels": "2",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7543133,
+              37.9382545
+            ],
+            [
+              -5.754269,
+              37.9381736
+            ],
+            [
+              -5.754206,
+              37.9381972
+            ],
+            [
+              -5.7541854,
+              37.9382049
+            ],
+            [
+              -5.7542312,
+              37.9382855
+            ],
+            [
+              -5.7543133,
+              37.9382545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723556",
+      "properties": {
+        "@id": "way/287723556",
+        "building": "warehouse",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7545911,
+              37.9380765
+            ],
+            [
+              -5.754558,
+              37.9380211
+            ],
+            [
+              -5.7544857,
+              37.9380483
+            ],
+            [
+              -5.754506,
+              37.9380845
+            ],
+            [
+              -5.754517,
+              37.9381042
+            ],
+            [
+              -5.7545171,
+              37.9381042
+            ],
+            [
+              -5.7545911,
+              37.9380765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723557",
+      "properties": {
+        "@id": "way/287723557",
+        "building": "residential",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7542355,
+              37.9381423
+            ],
+            [
+              -5.7542188,
+              37.9381118
+            ],
+            [
+              -5.7541416,
+              37.9381384
+            ],
+            [
+              -5.7541599,
+              37.9381707
+            ],
+            [
+              -5.7541649,
+              37.9381688
+            ],
+            [
+              -5.7541856,
+              37.938161
+            ],
+            [
+              -5.7542355,
+              37.9381423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723558",
+      "properties": {
+        "@id": "way/287723558",
+        "building": "warehouse",
+        "building:levels": "2",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7546272,
+              37.9381366
+            ],
+            [
+              -5.7546055,
+              37.9381004
+            ],
+            [
+              -5.7545681,
+              37.9381145
+            ],
+            [
+              -5.7545537,
+              37.9380905
+            ],
+            [
+              -5.7545171,
+              37.9381042
+            ],
+            [
+              -5.754517,
+              37.9381042
+            ],
+            [
+              -5.7545513,
+              37.9381651
+            ],
+            [
+              -5.7546272,
+              37.9381366
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723559",
+      "properties": {
+        "@id": "way/287723559",
+        "addr:housenumber": "35",
+        "addr:street": "Calle Mendez Bejarano",
+        "catastro:ref": "8027810TH5072N",
+        "landuse": "residential",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7543163,
+              37.9381119
+            ],
+            [
+              -5.7542989,
+              37.938082
+            ],
+            [
+              -5.7542533,
+              37.9380038
+            ],
+            [
+              -5.7542215,
+              37.9380156
+            ],
+            [
+              -5.7541755,
+              37.9380327
+            ],
+            [
+              -5.7541977,
+              37.9380732
+            ],
+            [
+              -5.7542188,
+              37.9381118
+            ],
+            [
+              -5.7542355,
+              37.9381423
+            ],
+            [
+              -5.7542374,
+              37.9381416
+            ],
+            [
+              -5.7542704,
+              37.9381292
+            ],
+            [
+              -5.7543163,
+              37.9381119
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723560",
+      "properties": {
+        "@id": "way/287723560",
+        "addr:housenumber": "39",
+        "addr:street": "Calle Mendez Bejarano",
+        "catastro:ref": "8027812TH5072N",
+        "landuse": "greenfield",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7541599,
+              37.9381707
+            ],
+            [
+              -5.7540979,
+              37.9380615
+            ],
+            [
+              -5.7540205,
+              37.9380902
+            ],
+            [
+              -5.7540852,
+              37.9381988
+            ],
+            [
+              -5.7541599,
+              37.9381707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723561",
+      "properties": {
+        "@id": "way/287723561",
+        "addr:housenumber": "31",
+        "addr:street": "Calle Mendez Bejarano",
+        "catastro:ref": "8027808TH5072N",
+        "landuse": "residential",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7544671,
+              37.9380552
+            ],
+            [
+              -5.7544502,
+              37.9380251
+            ],
+            [
+              -5.7544064,
+              37.9379471
+            ],
+            [
+              -5.754327,
+              37.9379765
+            ],
+            [
+              -5.7543892,
+              37.9380845
+            ],
+            [
+              -5.7544671,
+              37.9380552
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723562",
+      "properties": {
+        "@id": "way/287723562",
+        "addr:housenumber": "29",
+        "addr:street": "Calle Mendez Bejarano",
+        "catastro:ref": "8027807TH5072N",
+        "landuse": "greenfield",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.754558,
+              37.9380211
+            ],
+            [
+              -5.754494,
+              37.9379146
+            ],
+            [
+              -5.7544064,
+              37.9379471
+            ],
+            [
+              -5.7544502,
+              37.9380251
+            ],
+            [
+              -5.7544671,
+              37.9380552
+            ],
+            [
+              -5.754558,
+              37.9380211
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723563",
+      "properties": {
+        "@id": "way/287723563",
+        "addr:housenumber": "34",
+        "addr:street": "Calle Francisco Huet",
+        "catastro:ref": "8027804TH5072N",
+        "landuse": "residential",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.754468,
+              37.9381965
+            ],
+            [
+              -5.7544217,
+              37.9381161
+            ],
+            [
+              -5.754401,
+              37.9380801
+            ],
+            [
+              -5.7543231,
+              37.9381093
+            ],
+            [
+              -5.7543907,
+              37.9382255
+            ],
+            [
+              -5.754468,
+              37.9381965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723564",
+      "properties": {
+        "@id": "way/287723564",
+        "addr:housenumber": "33",
+        "addr:street": "Calle Mendez Bejarano",
+        "catastro:ref": "8027809TH5072N",
+        "landuse": "greenfield",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7543892,
+              37.9380845
+            ],
+            [
+              -5.754327,
+              37.9379765
+            ],
+            [
+              -5.7542533,
+              37.9380038
+            ],
+            [
+              -5.7542989,
+              37.938082
+            ],
+            [
+              -5.7543163,
+              37.9381119
+            ],
+            [
+              -5.7543231,
+              37.9381093
+            ],
+            [
+              -5.7543892,
+              37.9380845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723565",
+      "properties": {
+        "@id": "way/287723565",
+        "addr:housenumber": "32",
+        "addr:street": "Calle Francisco Huet",
+        "catastro:ref": "8027805TH5072N",
+        "landuse": "residential",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7545513,
+              37.9381651
+            ],
+            [
+              -5.7545171,
+              37.9381042
+            ],
+            [
+              -5.7544857,
+              37.9380483
+            ],
+            [
+              -5.754401,
+              37.9380801
+            ],
+            [
+              -5.7544217,
+              37.9381161
+            ],
+            [
+              -5.754468,
+              37.9381965
+            ],
+            [
+              -5.7545513,
+              37.9381651
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723566",
+      "properties": {
+        "@id": "way/287723566",
+        "addr:housenumber": "36",
+        "addr:street": "Calle Francisco Huet",
+        "catastro:ref": "8027803TH5072N",
+        "landuse": "greenfield",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7543907,
+              37.9382255
+            ],
+            [
+              -5.7543231,
+              37.9381093
+            ],
+            [
+              -5.7543163,
+              37.9381119
+            ],
+            [
+              -5.7542704,
+              37.9381292
+            ],
+            [
+              -5.7542491,
+              37.9381372
+            ],
+            [
+              -5.7543133,
+              37.9382545
+            ],
+            [
+              -5.7543907,
+              37.9382255
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723567",
+      "properties": {
+        "@id": "way/287723567",
+        "addr:housenumber": "37",
+        "addr:street": "Calle Mendez Bejarano",
+        "catastro:ref": "8027811TH5072N",
+        "landuse": "residential",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7542355,
+              37.9381423
+            ],
+            [
+              -5.7542188,
+              37.9381118
+            ],
+            [
+              -5.7541977,
+              37.9380732
+            ],
+            [
+              -5.7541755,
+              37.9380327
+            ],
+            [
+              -5.7540979,
+              37.9380615
+            ],
+            [
+              -5.7541599,
+              37.9381707
+            ],
+            [
+              -5.7541649,
+              37.9381688
+            ],
+            [
+              -5.7541856,
+              37.938161
+            ],
+            [
+              -5.7542355,
+              37.9381423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723568",
+      "properties": {
+        "@id": "way/287723568",
+        "addr:housenumber": "38",
+        "addr:street": "Calle Francisco Huet",
+        "catastro:ref": "8027802TH5072N",
+        "landuse": "residential",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.7543133,
+              37.9382545
+            ],
+            [
+              -5.7542491,
+              37.9381372
+            ],
+            [
+              -5.7542374,
+              37.9381416
+            ],
+            [
+              -5.7542355,
+              37.9381423
+            ],
+            [
+              -5.7541856,
+              37.938161
+            ],
+            [
+              -5.7541649,
+              37.9381688
+            ],
+            [
+              -5.7541854,
+              37.9382049
+            ],
+            [
+              -5.7542312,
+              37.9382855
+            ],
+            [
+              -5.7543133,
+              37.9382545
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/287723543",
+      "properties": {
+        "@id": "way/287723543",
+        "addr:housenumber": "30",
+        "addr:street": "Calle Francisco Huet",
+        "catastro:ref": "8027806TH5072N",
+        "source": "catastro",
+        "source:date": "2014-01"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.7546272,
+            37.9381366
+          ],
+          [
+            -5.7545513,
+            37.9381651
+          ],
+          [
+            -5.7545171,
+            37.9381042
+          ],
+          [
+            -5.7544857,
+            37.9380483
+          ],
+          [
+            -5.754558,
+            37.9380211
+          ],
+          [
+            -5.7546272,
+            37.9381366
+          ]
+        ]
+      }
+    }
+  ]
+}
